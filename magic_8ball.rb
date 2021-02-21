@@ -39,5 +39,4 @@ answers = [
 # Случайные элементы массивов с паузой 2 сек между приветствием и ответом
 puts randomhi.sample
   sleep 2
-puts
 puts answers.sample
