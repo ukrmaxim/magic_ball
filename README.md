@@ -10,10 +10,10 @@ Requirements
 Installation Ruby
 -
 
-###Ubuntu
+* Ubuntu
 `sudo apt-get install ruby-full`
 
-###Windows
+* Windows
 https://rubyinstaller.org/downloads/
 
 Quick start
