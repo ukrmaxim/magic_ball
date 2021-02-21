@@ -22,5 +22,5 @@ On command line, type in the following commands:
 
 Command | OS
 --- | ---
-cd /yourpath/magic_ball/ruby magic_8ball.rb | (Linux)
-cd \yourpath\magic_ball\ruby magic_8ball.rb| (Windows)
+cd /yourpath/magic_ball/ruby magic_8ball.rb | Linux
+cd \yourpath\magic_ball\ruby magic_8ball.rb| Windows
