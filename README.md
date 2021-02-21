@@ -9,8 +9,10 @@ Requirements
 
 Installation Ruby
 -
+
 ###Ubuntu
 `sudo apt-get install ruby-full`
+
 ###Windows
 https://rubyinstaller.org/downloads/
 
