@@ -21,10 +21,6 @@ https://github.com/rbenv/rbenv#installing-ruby-versions
 
 Quick start
 -
-On command line, type in the following commands:
+On command line, go to the directory, where you unpacked the archive and type in the following commands:
 
-Command | OS
---- | ---
-cd /yourpath/magic_ball/ruby magic_8ball.rb | Linux
-cd \yourpath\magic_ball\ruby magic_8ball.rb| Windows
-cd /yourpath/magic_ball/ruby magic_8ball.rb | macOS
+`ruby magic_8ball.rb`
